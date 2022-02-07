@@ -1,1 +1,1 @@
-# HashCode2022_SfBoyzBoyz
+# HashCode2022
